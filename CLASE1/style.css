@@ -1,11 +1,15 @@
-.input{
+.input,.tarjeta{
     display: flex;
     flex-direction:column;
     justify-items: center;
     align-items: center;
     padding: 15px;
     margin: 5px;
-    
+}
+.tarjeta{
+    background-color:coral;
+    border: solid 3px;
+    height: 50%;
+    width: 30%;
 
-    
 }
